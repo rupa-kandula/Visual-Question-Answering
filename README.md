@@ -39,5 +39,4 @@ These features are concatenated and passed through a classification layer to pre
 
 ---
 
-## 🗂 Repository Structure
 
